@@ -1,6 +1,6 @@
-<h1>Drone Cia (bootstrap_DroneCia)</h1>
+<h1>Drone&Cia</h1>
 
-Status: completo
+>Status: completo
 
 Página de uma empresa que presta serviços a partir do transporte de drones. Entre os serviços
 oferecidos estão os de entrega de objetos e pets, espionagem e atividades envolvendo a agricultura, 
