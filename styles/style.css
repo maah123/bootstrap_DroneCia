@@ -1,0 +1,43 @@
+/*definir elementos*/
+body {
+    font-family: Arial, sans-serif;
+}
+
+.margin {
+    padding: 2rem 0;
+}
+
+h3 {
+    text-transform: uppercase;
+    padding-bottom: 2rem;
+}
+
+/*1- Cabeçalho*/
+.navbar {
+    padding: 0 1rem;
+}
+
+/*2- Seção de "Quem somos"*/
+#quemsomos img {
+    margin-bottom: 1.5rem; 
+}
+
+#quemsomos h5 {
+    margin: 0 28rem;
+}
+
+/*3- Seção de "Benefícios"*/
+/*4- Seção de "Serviços"*/
+#servicos .servicos p {
+    height: 5.8rem;
+    margin: 1rem 6rem;
+}
+
+/*5- Seção de "Tipos"*/
+#tipos .tipos p {
+    height: 5.8rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
