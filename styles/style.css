@@ -23,16 +23,11 @@ h3 {
 }
 
 #quemsomos h5 {
-    margin: 0 28rem;
+    min-width: 20rem;
 }
 
 /*3- Seção de "Benefícios"*/
 /*4- Seção de "Serviços"*/
-#servicos .servicos p {
-    height: 5.8rem;
-    margin: 1rem 6rem;
-}
-
 /*5- Seção de "Tipos"*/
 #tipos .tipos p {
     height: 5.8rem;
